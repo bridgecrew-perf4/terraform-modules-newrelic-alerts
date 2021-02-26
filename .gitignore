@@ -5,3 +5,5 @@ terraform.tfstate
 .terraform.lock.hcl
 .terraform/
 notes.txt
+modules/.DS_Store
+.DS_Store
