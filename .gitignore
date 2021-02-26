@@ -1,0 +1,7 @@
+*.tfvars
+#variables.tf
+terraform.tfstate.backup
+terraform.tfstate
+.terraform.lock.hcl
+.terraform/
+notes.txt
